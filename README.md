@@ -75,14 +75,6 @@ I am a specialized engineer focused on the intersection of **Networking**, **AI-
 
 
 
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.vercel.app/?user=MustafaAbdulazizHamza&theme=tokyonight&hide_border=true" />
-
-</p>
-
-
-
 ---
 
 
